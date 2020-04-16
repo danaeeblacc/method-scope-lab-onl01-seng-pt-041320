@@ -1,4 +1,4 @@
 def catch_phrase(phrase)
   puts "#{catch_phrase(phrase)}"
-  phrase= It's-a me, Mario
+  phrase= rescue_princess_peach
 end
