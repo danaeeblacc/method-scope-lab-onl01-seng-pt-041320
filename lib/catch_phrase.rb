@@ -1,4 +1,4 @@
-def catch_phrase ("puts out a catch phrase")
-  puts out a catch_phrase
-  phrase= 
+def catch_phrase
+  puts phrase "#{catch_phrase}"
+  phrase= "It's-a me, Mario!"
 end
